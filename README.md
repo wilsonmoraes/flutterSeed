@@ -4,6 +4,7 @@
 A started app for flutter with login validation using BLoC Design Pattern.
 
 ## Table of contents
+- [Slidy](https://github.com/Flutterando/slidy) - a way to assemble your project structured by modules, pages, repositories, widgets always following the standards of good practice;
 - [Sqflite](https://github.com/tekartik/sqflite) - SQLite plugin for Flutter;
 - [morr_generator](https://github.com/simolus3/moor/tree/master/moor_generator) - An easy to use, reactive persistence library for Flutter apps;
 -[build_runner](https://pub.dev/packages/build_runner)

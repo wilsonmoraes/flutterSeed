@@ -5,7 +5,8 @@ A started app for flutter with login validation using BLoC Design Pattern.
 
 ## Table of contents
 - [Sqflite](https://github.com/tekartik/sqflite) - SQLite plugin for Flutter;
-- [morr_generator](https://github.com/simolus3/moor) - An easy to use, reactive persistence library for Flutter apps
+- [morr_generator](https://github.com/simolus3/moor/tree/master/moor_generator) - An easy to use, reactive persistence library for Flutter apps;
+-[build_runner](https://pub.dev/packages/build_runner)
 - [DIO](https://github.com/flutterchina/dio) - A powerful Http client for Dart;
 - [RxDart](https://github.com/ReactiveX/rxdart) - A reactive functional programming library for Google Dart, based on ReactiveX;
 - [Shared preferences plugin](https://github.com/flutter/plugins/tree/master/packages/shared_preferences) - Persistent store for simple data;

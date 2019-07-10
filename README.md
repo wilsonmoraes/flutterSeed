@@ -7,7 +7,8 @@ A started app for flutter with login validation using BLoC Design Pattern.
 - [Sqflite](https://github.com/tekartik/sqflite) - SQLite plugin for Flutter;
 - [DIO](https://github.com/flutterchina/dio) - A powerful Http client for Dart;
 - [RxDart](https://github.com/ReactiveX/rxdart) - A reactive functional programming library for Google Dart, based on ReactiveX;
-- [Shared preferences plugin](https://github.com/flutter/plugins/tree/master/packages/shared_preferences) - Persistent store for simple data
+- [Shared preferences plugin](https://github.com/flutter/plugins/tree/master/packages/shared_preferences) - Persistent store for simple data;
+- [connectivity](https://github.com/flutter/plugins/tree/master/packages/connectivity) - This plugin allows Flutter apps to discover network connectivity.
 
 ## References:
 - [Flutter: Todo App using BLoC Design Pattern with SQLite](https://medium.com/@vaygeth/reactive-flutter-todo-app-using-bloc-design-pattern-b71e2434f692)
